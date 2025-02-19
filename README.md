@@ -66,7 +66,7 @@
 <h2 align="center">🔥 Streak Showcase</h2>
 <div align='center'>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrrayhan246&theme=neon&hide_border=true&border_radius=10&card_width=503)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sabiajahan&theme=neon&hide_border=true&border_radius=10&card_width=503)](#)
 </div>
 
 ---
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrrayhan246&theme=slateorange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabiajahan&theme=slateorange)
 
 </div>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrrayhan246&theme=slateorange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabiajahan&theme=slateorange)
 
 </div>
 
@@ -108,7 +108,7 @@
 <h2 align="center">📊 Commit Charts & Insights</h2>
 
 <div class='container'>
-<img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrrayhan246&theme=slateorange&card_width=1200" /></div>
+<img style="height: auto; width: 100%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabiajahan&theme=slateorange&card_width=1200" /></div>
 &nbsp;
 &nbsp;
 
@@ -119,7 +119,7 @@
 <div align="center">
 <h2 align="center">🏆 Github Trophy 🏆</h2>
 
-<p align="center"> <a href="https://www.foritbd.com/"><img src="https://github-profile-trophy.vercel.app/?username=mrrayhan246&theme=juicyfresh" alt="Raihanul Islam" /></a> </p>
+<p align="center"> <a href="https://www.foritbd.com/"><img src="https://github-profile-trophy.vercel.app/?username=sabiajahan&theme=juicyfresh" alt="Sabia Jahan" /></a> </p>
 </div>
 
 ---
